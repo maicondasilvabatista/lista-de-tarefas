@@ -1,3 +1,3 @@
 # lista-de-tarefas
 App de Tarefas 
-Realizado  no Bootcamp Santander junto com a Digital Innovation one .
+Feito no Bootacamp Santander junto a Plataforma Digital Innovation 1 .  
